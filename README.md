@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Avanish-Gupta
+- 👋 Hi, I’m @Avanish-Gupta-CSE
 - 👀 I’m interested in Web Development and Android Application Development. 
 - 🌱 I’m currently learning Web Development(with ReactJS)
 - 💞️ I’m looking to collaborate on Web Development Projects
