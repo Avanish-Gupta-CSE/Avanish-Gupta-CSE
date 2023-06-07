@@ -16,7 +16,7 @@
 
 🚀 Let's collaborate! Feel free to reach out for discussions, collaborations, or any coding-related queries.
 
-📫 Contact me: avanish.gupta.official1@gmail.comm 
+📫 Contact me: avanish.gupta.official1@gmail.com
 
 🌟 Open to new challenges and eager to be a part of innovative projects that make a positive impact. Let's build the future together!
 
