@@ -2,7 +2,7 @@
 
 👨‍💻 Computer Science Student | Software Developer | Machine Learning Enthusiast
 
-🎓 Final year Computer Science student pursuing my B.Tech degree. Passionate about coding, problem-solving, and exploring new technologies.
+🎓 SDE-1 @Berkadia, Ex-SDE Intern @STMicroelectronics. Passionate about coding, problem-solving, and exploring new technologies.
 
 💡 Skills: Proficient in C++, Java, Python, HTML, CSS, JavaScript, and React. Experienced in developing projects in Machine Learning and Web Development.
 
